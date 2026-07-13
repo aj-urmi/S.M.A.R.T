@@ -1,11 +1,10 @@
 #                                            System Monitoring And Resource Toolkit (S.M.A.R.T)
 
 It is a graphical utility built with Bash scripting and the Zenity GUI framework. Its primary goal is to bridge the gap between complex command-line system tools and user-friendly graphical interfaces. The toolkit provides features like secure login, process management, system dashboard reporting, CPU scheduling simulation, password reset, and Smart-Shell interaction. By transforming traditional command-based operations into an accessible GUI, it simplifies system monitoring and resource management for students, educators, and small-scale labs.
-
 Tools & Libraries: Bash Scripting, Zenity, Notepad, Vs Code
 Initialy our Operating System project look like this. It has no UI, works only in Terminal
-              <img width="548" height="375" alt="image" src="https://github.com/user-attachments/assets/5d3f356b-d2e3-4d36-86e3-9df9a778359d" />
-                     Here is our final Oparating System project where we have added Zenity UI and many more features.
+              <img width="686" height="416" alt="image" src="https://github.com/user-attachments/assets/c3e924b7-b664-4c53-87bc-68c592a662e5" />
+               Here is our final Oparating System project where we have added Zenity UI and many more features.
                                                    Booting System
               <img width="932" height="890" alt="image" src="https://github.com/user-attachments/assets/feeffaa9-a5eb-437b-939b-28dcee39bf83" />
                                                    Secure Login                              
